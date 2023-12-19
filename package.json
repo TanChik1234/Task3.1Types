@@ -1,0 +1,11 @@
+{
+  "name": "task3.1types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/types.ts"
+  },
+  "author": "Tatiana Chorna",
+  "license": "ISC"
+}
